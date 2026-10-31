@@ -53,7 +53,7 @@ counting of visitors to this page in this section started from October 31, 2026
 <img src="https://count.getloli.com/get/@:mahadydev?theme=gelbooru-h" alt="visitors" />
 
 <a href="https://mahadydev.vercel.app">
-  <img align="left" height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadydev&layout=compact&theme=radical&langs_count=10&hide=html,css" />
+  <img align="left" height=170px src="https://github-readme-stats-mxsm.vercel.app/api/top-langs/?username=mahadydev&layout=compact&theme=radical&langs_count=10&hide=html,css" />
 </a>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
