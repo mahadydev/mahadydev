@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 Hi, I’m **Md Mahady Hasan** (mahadydev), graduated from ***Daffodil International University (DIU)*** in Computer Science and Engineering.
-- 👨‍💻 Senior Software Engineer at ***Appifylab LLC***, living in Dhaka, Bangladesh. ***8+ years building cross-platform apps for 1M+ users. Good at Flutter, Dart, Clean Architecture, BLoC***
+- 👨‍💻 Senior Software Engineer at ***Appifylab LLC***, living in Dhaka, Bangladesh. ***9+ years building cross-platform apps for 1M+ users. Good at Flutter, Dart, Clean Architecture, BLoC***
 - 🌱 I’m currently focused on [***Ezycourse***](https://ezycourse.com) (LMS for 200+ institutions), contributing to [***Flutter***](https://github.com/flutter/flutter), and maintaining [***flutter_starter_project***](https://github.com/mahadydev/flutter_starter_project) and [***wallcraft_manager***](https://github.com/mahadydev/wallcraft_manager).
 - 🏆 ***BASIS National ICT Award 2022 — Champion*** (Probash Bondhu app) · The Daily Star ICT Solution Provider of the Year 2021.
 - 📚 I’m currently learning TypeScript and Next.js, and deepening AWS (AppSync, Amplify, Lambda).
